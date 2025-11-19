@@ -1,0 +1,5 @@
+{
+  "posts": [{ "id": 1, "title": "Hello World", "body": "Seeded post" }],
+  "users": [{ "id": 1, "name": "Amit", "email": "amit@example.com" }],
+  "products": [{ "id": 1, "name": "T-shirt", "price": 499 }]
+}
